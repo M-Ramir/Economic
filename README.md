@@ -1,14 +1,4 @@
 # Economic
-////////////////////////////////////////////////////////////////////
-// Maria Ramirez
-// TINFO-200C
-// L2vs
-////////////////////////////////////////////////////////////////////
-// Change History
-// Date              Developer         Description           
-// 2022-01-15        Maria Ramirez     File and class creation and initial testing for submission
-//
-//////////////////////////////////////////////////////////////////////
 /// This program asks users a series of questions such as name, their trip destination,
 /// amount of miles driven, and amount of fuel used. With this information the program
 /// calculates their miles per gallon and lets the user know if their trip was 
